@@ -25,7 +25,7 @@ Replace `username`, `password`, and `schema_name` with the appropriate values fo
 - 4. Create the necessary tables in the database:
 
  ```
- python backend/db/migration.py
+ python backend/db/migrate_db.py
  ```
 
 ## Usage
